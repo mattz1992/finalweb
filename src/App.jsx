@@ -1,7 +1,3 @@
-// src/App.js
 import AppRouter from "./routes/AppRouter";
 import "./styles/globals.css";
-
-export default function App() {
-  return <AppRouter />;
-}
+export default function App(){ return <AppRouter />; }
